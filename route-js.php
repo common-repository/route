@@ -1,0 +1,3 @@
+<!-- start Route -->
+<script>(function(w,d,t,r,u,o,s,f){w[r]=w[r]||function(){(w._rq=w._rq||[]).push(Array.prototype.slice.call(arguments))};s=d.createElement(t),f=d.getElementsByTagName(t)[0];s.async=1;s.src=u;s.id='rtracker';s.setAttribute('data-source', 'wordpress'); s.setAttribute('data-organization-id',o);f.parentNode.insertBefore(s,f)})(window,document,'script','_route','//www.routecdn.com/tracker/route-tracker-min.js','<?php echo $settings['organization_id']; ?>');</script>
+<!-- end Route -->
